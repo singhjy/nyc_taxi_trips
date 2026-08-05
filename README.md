@@ -2,6 +2,8 @@
 
 NYC Taxi Trip Analysis Report
 
+<img width="694" height="461" alt="Screen Shot 2026-08-05 at 3 29 59 PM" src="https://github.com/user-attachments/assets/b6f09f04-4add-4577-8fec-5104937c723a" />
+
 # Overview:
 
 This project utilizes Apache Spark to process and analyze massive New York City Yellow taxi trip datasets. 
